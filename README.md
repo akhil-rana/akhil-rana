@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![enter image description here](https://i.ibb.co/N6RwS3n/out.gif)
+![enter image description here](https://raw.githubusercontent.com/akhil-rana/akhil-rana/master/out.gif)
 
 <!--
 **akhil-rana/akhil-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
