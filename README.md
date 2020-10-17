@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-rana&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-rana" /> </p>
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=akhil-rana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
