@@ -1,8 +1,8 @@
-
+<h1 align="center">Hi 👋, I'm Akhil</h1>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/akhil-rana/akhil-rana/master/out.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Akhil</h1>
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-rana&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-rana" /> </p>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=akhil-rana&margin-w=15&theme=onedark)" />
