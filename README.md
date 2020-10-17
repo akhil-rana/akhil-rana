@@ -4,9 +4,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-rana&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-rana" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akhil-rana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=akhil-rana&margin-w=15&theme=onedark)" />
+</p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/akhilrana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilrana" height="30" width="40" /></a>
