@@ -19,4 +19,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-rana&layout=compact" alt="akhil-rana" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-rana&show_icons=true" alt="akhil-rana" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-rana&" alt="akhil-rana" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-rana&" alt="akhil-rana" /></p>
